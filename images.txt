@@ -1,5 +1,2 @@
 nginx
-#支持私库
 jxxghp/moviepilot
-#支持指定架构
---platform=linux/amd64
