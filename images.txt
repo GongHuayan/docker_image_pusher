@@ -1,9 +1,1 @@
-postgres:15.12
-redis:7.4
-openjdk:21
-seafileltd/seafile-mc:12.0-latest
-mariadb:10.11
-memcached:1.6.29
-lucaslorentz/caddy-docker-proxy:2.9-alpine
-seafileltd/sdoc-server:1.0-latest
-seafileltd/notification-server:12.0-latest
+node:20-alpine
