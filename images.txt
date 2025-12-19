@@ -1,1 +1,1 @@
-nocodb:latest
+nocodb:0.265.1
